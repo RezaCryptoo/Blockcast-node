@@ -84,6 +84,7 @@ Open the registration page:
 👉 [https://app.blockcast.network?referral-code=8zQUoz](https://app.blockcast.network?referral-code=8zQUoz)
 
 Then follow these steps:
+![c3fa3074ea6eae9cf3e0acec941e4c9d](https://github.com/user-attachments/assets/be2b85ff-63b8-44fc-82ae-3fb04dd59a53)
 
 * Connect your Solana wallet
 * Link your Twitter and Discord accounts
