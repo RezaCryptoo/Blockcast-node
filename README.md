@@ -3,8 +3,7 @@
 # 🚀 BLOCKCAST NODE IS LIVE! 
 
 
-<p style="margin-bottom: 50px;"></p>
----
+
 ---
 
 
