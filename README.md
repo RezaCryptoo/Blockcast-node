@@ -101,11 +101,11 @@ Then follow these steps:
 
 
 
-# ⚠️ Backup Instructions
+# ⚠️ **Backup Instructions**
 
 Make sure to back up your private key:
 
-```
+
 
 **.blockcast/certs/gw\_challenge.key**
 
