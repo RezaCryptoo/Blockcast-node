@@ -1,5 +1,5 @@
 
-باشه! فقط همین متن بدون اون قسمت اضافی که گفتی:
+
 
 ````markdown
 # BLOCKCAST NODE IS LIVE!
