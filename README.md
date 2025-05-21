@@ -97,11 +97,11 @@ Then follow these steps:
 
 💡 OR you can use the Registration URL shown in the terminal to register your node automatically on the website.
 
-```
+---
 
 
 
-# ⚠️ **Backup Instructions**
+# ⚠️  **Backup Instructions**
 
 Make sure to back up your private key:
 
