@@ -97,3 +97,21 @@ Then follow these steps:
 ```
 
 
+```markdown
+---
+
+# Backup Instructions
+
+Make sure to back up your private key:
+
+```
+
+.blockcast/certs/gw\_challenge.key
+
+```
+
+Use Termius or a similar program to save this file securely on your system.
+```
+
+
+
