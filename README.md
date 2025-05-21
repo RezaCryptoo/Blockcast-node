@@ -92,5 +92,4 @@ Then follow these steps:
 
 ```
 
-همین رو بفرست تو README.md و بفرست به گیت!
-```
+
