@@ -3,9 +3,9 @@
 # 🚀 BLOCKCAST NODE IS LIVE! 
 
 
-
+<p style="margin-bottom: 50px;"></p>
 ---
-
+---
 
 
 🔹 **Step 1: Update the System**
@@ -98,7 +98,7 @@ Then follow these steps:
 
 
 
-# Backup Instructions
+# ⚠️ Backup Instructions
 
 Make sure to back up your private key:
 
