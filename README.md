@@ -101,7 +101,7 @@ Then follow these steps:
 
 
 
-# ⚠️  **Backup **
+# ⚠️  **Backup**
 
 Make sure to back up your private key:
 
