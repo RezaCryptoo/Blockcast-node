@@ -105,10 +105,14 @@ Make sure to back up your private key:
 
 .blockcast/certs/gw\_challenge.key
 
-```
 
-Use Termius or a similar program to save this file securely on your system.
-```
+---
+
+📢 **Follow for Updates:**
+- Twitter: [https://x.com/Reza_Cryptoo](https://x.com/Reza_Cryptoo)
+- Telegram: [https://t.me/Rezaa_Cryptoo](https://t.me/Rezaa_Cryptoo)
+
+
 
 
 
