@@ -1,8 +1,6 @@
 
 
-
-````markdown
-# BLOCKCAST NODE IS LIVE!
+# 🚀 BLOCKCAST NODE IS LIVE! 
 
 
 
