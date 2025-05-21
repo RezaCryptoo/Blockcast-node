@@ -91,6 +91,9 @@ Then follow these steps:
 * Navigate to the "Manage Nodes" section
 * Click on "Register Node"
 * Paste the copied Hardware ID and Challenge Key
+![Screenshot_1](https://github.com/user-attachments/assets/dc3c71da-c70e-429c-b0e1-03418867b6b2)
+![Screenshot_2](https://github.com/user-attachments/assets/b2c8b358-e7a6-463d-aaad-e1bf572c9324)
+![Screenshot_3](https://github.com/user-attachments/assets/5e7470a8-8261-411b-b7a2-03e34572c6fe)
 
 💡 OR you can use the Registration URL shown in the terminal to register your node automatically on the website.
 
