@@ -1,6 +1,6 @@
 
 
-# 🚀 BLOCKCAST NODE IS LIVE! 
+# 🚀 Blockcast BEACON Node – How to Set Up
 
 
 
