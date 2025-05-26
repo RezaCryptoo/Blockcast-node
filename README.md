@@ -1,6 +1,6 @@
 
 
-# 🚀 Blockcast BEACON Node – How to Set Up
+# 🚀 Blockcast Beacon Node – How to Set Up
 
 
 
@@ -107,7 +107,7 @@ Make sure to back up your private key:
 
 
 
-**.blockcast/certs/gw\_challenge.key**
+**root/.blockcast/certs/gw\_challenge.key**
 
 
 ---
